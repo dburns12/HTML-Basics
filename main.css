@@ -1,0 +1,16 @@
+body{
+	font-family: helvetica;
+}
+
+
+input[type="text"],input[type="email"]{
+	background:#E8F0FE
+}
+
+
+input[type="submit"], input[type="button"]{
+	background: #bb0000;
+	border: 0px;
+	padding: 5px 20px;
+	color: #fff
+}
